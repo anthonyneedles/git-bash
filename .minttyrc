@@ -1,0 +1,13 @@
+BackgroundColour=0,0,0
+BoldAsColour=yes
+BoldAsFont=no
+FontSmoothing=default
+FontHeight=11
+ThemeFile=dracula
+Transparency=low
+OpaqueWhenFocused=yes
+CursorType=block
+Font=Consolas
+Columns=140
+Term=xterm-256color
+Rows=50
